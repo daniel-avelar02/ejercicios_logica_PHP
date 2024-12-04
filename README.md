@@ -6,4 +6,4 @@
   </div>
 </div>
 <h1>Resultados de consola:</h1>
-![image](https://github.com/user-attachments/assets/332d3be3-d708-4bf7-aed6-d13b97dce02a)
+<img src="https://github.com/user-attachments/assets/332d3be3-d708-4bf7-aed6-d13b97dce02a" />
